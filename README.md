@@ -1,88 +1,147 @@
 <h1 align="center">Mohamed Ayman</h1>
-<h3 align="center">Backend Engineer</h3>
 
 <p align="center">
-Backend-focused developer passionate about building scalable Laravel applications, 
-designing clean database architectures, and creating well-structured, well-documented APIs.<br>
-I approach every project as a system to be designed thoughtfully, not just code to be shipped.
+Backend Software Engineer • PHP • Laravel • REST APIs • System Architecture
 </p>
 
-<br>
+<p align="center">
+I build production-ready backend systems with a strong focus on clean architecture,
+security, maintainability, and performance.
+</p>
 
-### Current Focus
+<p align="center">
+From building a custom PHP MVC framework from scratch to designing AI-powered backend systems,
+I enjoy solving engineering problems—not just implementing features.
+</p>
 
-- Backend Engineering
-- Laravel
-- Software Architecture
-- Database Design
-- Building production-ready REST APIs
+---
 
-<br>
+# 🚀 Currently Building
 
-### What I Care About
+### Chat-MyU — AI-Powered University Platform *(In Active Development)*
 
-- Clean Code
-- Scalable Architecture
-- Maintainability
+An AI-powered academic platform that enables students to interact with university data using natural language.
+
+Current engineering focus:
+
+- Service Container Architecture
+- Intent Routing
+- JWT Authentication
+- Dynamic SQL Query Builder
+- FastAPI Integration
+- Flutter Mobile Client
+
+---
+
+# 🏗 Featured Engineering Projects
+
+## 🎬 Cinematch
+
+AI-powered movie & TV recommendation backend built with Laravel, integrating a FastAPI recommendation engine and TMDB enrichment layer.
+
+**Highlights**
+
+- Graceful degradation architecture
+- Hybrid multi-layer caching
+- JWT Authentication
+- Rate Limiting
+- RESTful APIs
+- Centralized Exception Handling
+- Pest Testing
+
+**Repository**
+
+➡️ https://github.com/mohamedayman12oo54-cmd/Cinematch
+
+---
+
+## ☕ Brewtica
+
+Designed and built a complete café management platform from scratch using a custom PHP MVC framework before later rebuilding the backend as a Laravel REST API.
+
+The project demonstrates how modern frameworks work internally by implementing core framework components manually, including routing, middleware, dependency organization, authentication, and MVC architecture.
+
+**Highlights**
+
+- Custom MVC Framework
+- Front Controller
+- URI Router
+- Authentication & Authorization
+- Transactional Cart
+- Admin Dashboard
+- MySQL Database Design
+
+**Repositories**
+
+Native PHP
+
+➡️ https://github.com/mohamedayman12oo54-cmd/Brewtica
+
+Laravel API
+
+➡️ https://github.com/mohamedayman12oo54-cmd/Brewtica-Laravel
+
+---
+
+# 💡 Engineering Principles
+
+- Clean Architecture
 - SOLID Principles
-- Performance
-- API Design
-- Documentation
+- API-First Design
+- Security by Default
+- Graceful Degradation
+- Fault Isolation
+- Performance Optimization
+- Documentation-Driven Development
 
-<br>
+---
 
-### Currently Learning
+# 🛠 Core Technologies
 
-- Software Architecture
-- System Design
-- Design Patterns
-- Advanced Laravel
-- Scalable Backend Systems
+### Backend
 
-<br>
+PHP • Laravel • REST APIs • JWT • Composer • PDO
 
-### Featured Projects
+### Database
 
-**[Brewtica](https://github.com/mohamedayman12oo54-cmd/Brewtica)** — Coffee shop management platform built with PHP using a custom MVC architecture (no framework). Features a three-level hierarchical menu, cart and favourites system, and a role-protected admin dashboard with full CRUD for categories, menu items, and staff. Built with PDO + prepared statements, BCRYPT password hashing, and role-based middleware for access control.
+MySQL • Database Design • Query Optimization • Transactions
 
-**[Brewtica-Laravel](https://github.com/mohamedayman12oo54-cmd/Brewtica-Laravel)** — Laravel rewrite of Brewtica, rebuilding the same cafe management system (menu management, orders, authentication, admin tools) on top of Laravel's ORM, routing, and conventions to compare custom-MVC vs. framework-driven architecture.
+### Frontend
 
-<br>
+JavaScript • Bootstrap • HTML • CSS
 
-### Core Stack
+### Mobile
+
+Flutter • Dart
+
+### Tools
+
+Git • GitHub • Postman • Linux • Apache
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedayman12oo54-cmd&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mohamedayman12oo54-cmd&hide_border=true"/>
+
 </p>
 
-<br>
+---
 
-### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedayman12oo54-cmd&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedayman12oo54-cmd&layout=compact&hide_border=true" />
-</p>
+# 🤝 Let's Connect
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=mohamedayman12oo54-cmd&hide_border=true" />
-</p>
 
-<br>
+<a href="https://www.linkedin.com/in/mohamed-ayman-ali/">
+LinkedIn
+</a>
+•
+<a href="mailto:mohamedayman12oo54@gmail.com">
+Email
+</a>
 
-### Contact
-
-<p align="center">
-  <a href="https://github.com/mohamedayman12oo54-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedayman12oo54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
